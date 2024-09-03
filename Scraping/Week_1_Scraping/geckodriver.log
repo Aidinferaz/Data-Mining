@@ -1,0 +1,560 @@
+1724829981433	geckodriver	INFO	Listening on 127.0.0.1:55396
+1724830028847	geckodriver	INFO	Listening on 127.0.0.1:55426
+1724830324842	geckodriver	INFO	Listening on 127.0.0.1:55710
+1724830466113	geckodriver	INFO	Listening on 127.0.0.1:55842
+1724830497942	geckodriver	INFO	Listening on 127.0.0.1:55875
+1724830839785	geckodriver	INFO	Listening on 127.0.0.1:54066
+1724830842835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5406 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilerFmL35"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724830843220	Marionette	INFO	Marionette enabled
+1724830843321	Marionette	INFO	Listening on port 54124
+WebDriver BiDi listening on ws://127.0.0.1:54067
+Read port: 54124
+1724830843454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1724830874004	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+24831986729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5489 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileFeroX4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724831987145	Marionette	INFO	Marionette enabled
+1724831987239	Marionette	INFO	Listening on port 54900
+WebDriver BiDi listening on ws://127.0.0.1:54892
+Read port: 54900
+1724831987367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1724831999082	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1724832019135	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "-headless" "--remote-debugging-port" "5492 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileGDHtfh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724832008548	Marionette	INFO	Marionette enabled
+1724832008642	Marionette	INFO	Listening on port 54932
+WebDriver BiDi listening on ws://127.0.0.1:54922
+Read port: 54932
+1724832008791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1724832038926	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+am Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5518 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileNJ9nVe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724832187412	Marionette	INFO	Marionette enabled
+1724832187507	Marionette	INFO	Listening on port 55191
+WebDriver BiDi listening on ws://127.0.0.1:55182
+Read port: 55191
+1724832187642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1724832217536	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5540 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileDIK1uh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724832266906	Marionette	INFO	Marionette enabled
+1724832267041	Marionette	INFO	Listening on port 55416
+WebDriver BiDi listening on ws://127.0.0.1:55409
+Read port: 55416
+1724832267247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1724832298157	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5556 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileRMHvg5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724832320288	Marionette	INFO	Marionette enabled
+1724832320410	Marionette	INFO	Listening on port 55576
+WebDriver BiDi listening on ws://127.0.0.1:55565
+Read port: 55576
+1724832320622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1724832351525	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5575 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile4oJBx9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724832386302	Marionette	INFO	Marionette enabled
+1724832386428	Marionette	INFO	Listening on port 55763
+WebDriver BiDi listening on ws://127.0.0.1:55751
+Read port: 55763
+1724832386627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1724832416323	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+24832517624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5599 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileJYfIbO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724832518252	Marionette	INFO	Marionette enabled
+1724832518378	Marionette	INFO	Listening on port 55998
+WebDriver BiDi listening on ws://127.0.0.1:55991
+Read port: 55998
+1724832518588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1724832528307	Marionette	INFO	Stopped listening on port 55998
+Dynamically enable window occlusion 1
+1725204580902	geckodriver	INFO	Listening on 127.0.0.1:49280
+1725204583979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "4928 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileZeVWOD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725204584509	Marionette	INFO	Marionette enabled
+1725204584642	Marionette	INFO	Listening on port 49292
+WebDriver BiDi listening on ws://127.0.0.1:49281
+Read port: 49292
+1725204584810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+1725204615057	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+led
+1725204626069	Marionette	INFO	Listening on port 49813
+WebDriver BiDi listening on ws://127.0.0.1:49802
+Read port: 49813
+1725204626197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/XCSEbScD2TvrcCbmOAwzw3FcKGiduMdvSHMNJDgnGcc.js line 2 > eval line 1417 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1725204656728	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1725204661576	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.metacritic.com/browse/game/ line 12 > injectedScript, line 57: TypeError: navigator.userAgentData is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1725204683244	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.metacritic.com/browse/game/ line 12 > injectedScript, line 57: TypeError: navigator.userAgentData is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1725208875837	geckodriver	INFO	Listening on 127.0.0.1:54305
+1725208878956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5430 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileU0Cmf5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725208879393	Marionette	INFO	Marionette enabled
+1725208879504	Marionette	INFO	Listening on port 54317
+WebDriver BiDi listening on ws://127.0.0.1:54306
+Read port: 54317
+1725208879666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+1725208909890	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+Exiting due to channel error.
+ running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725209029456	Marionette	INFO	Marionette enabled
+1725209029547	Marionette	INFO	Listening on port 54719
+WebDriver BiDi listening on ws://127.0.0.1:54697
+Read port: 54719
+1725209029675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+1725209059467	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1725209127153	Marionette	INFO	Stopped listening on port 54719
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 133"  data: no]
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 133
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":133,"columnNumber":11,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":266,"columnNumber":15,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":217,"columnNumber":12,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"_validateCollectionSignature","sourceId":22,"lineNumber":1005,"columnNumber":47,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"_importChanges","sourceId":22,"lineNumber":1084,"columnNumber":20,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1084:20\n","nativeSavedFrame":{}},"formattedStack":"_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1084:20\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1084:20\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1084:20\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:133:11\nfetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\n_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1084:20\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:133:11|fetch/<@resource://services-settings/Utils.sys.mjs:266:15|fetch@resource://services-settings/Utils.sys.mjs:217:12|_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47|_importChanges@resource://services-settings/RemoteSettingsClient.sys.mjs:1084:20|
+  - prototype Object
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.error: ({details:{id:"eae22ba6-631d-fcab-fa53-8a7c5adb39a9", last_modified:1725202629204, bucket:"security-state", collection:"cert-revocations", host:"firefox.settings.services.mozilla.com"}})
+1725209402291	geckodriver	INFO	Listening on 127.0.0.1:55270
+1725209405344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5527 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile27Wisr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725209405732	Marionette	INFO	Marionette enabled
+1725209405825	Marionette	INFO	Listening on port 55280
+WebDriver BiDi listening on ws://127.0.0.1:55271
+Read port: 55280
+1725209405948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+1725209409434	Marionette	INFO	Stopped listening on port 55280
+Dynamically enable window occlusion 1
+1725245914686	geckodriver	INFO	Listening on 127.0.0.1:50747
+1725245917823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5074 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilej7LRbP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725245918576	Marionette	INFO	Marionette enabled
+1725245918734	Marionette	INFO	Listening on port 50761
+Read port: 50761
+WebDriver BiDi listening on ws://127.0.0.1:50748
+1725245918829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1725245923029	Marionette	INFO	Stopped listening on port 50761
+JavaScript warning: https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js, line 7: Script terminated by timeout at:
+Z@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js:7:3888
+@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js:7:8435
+@https://cdn.cookielaw.org/scripttemplates/202403.2.0/otBannerSdk.js:7:457619
+
+Dynamically enable window occlusion 1
+1725246209974	geckodriver	INFO	Listening on 127.0.0.1:61855
+1725246212977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6185 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileQvqnNq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725246213955	Marionette	INFO	Marionette enabled
+1725246214221	Marionette	INFO	Listening on port 61865
+WebDriver BiDi listening on ws://127.0.0.1:61856
+Read port: 61865
+1725246214501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+1725246243990	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1725246244175	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1725246252142	Marionette	INFO	Stopped listening on port 61865
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 133
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":25,"lineNumber":133,"columnNumber":11,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":24,"lineNumber":266,"columnNumber":15,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":24,"lineNumber":217,"columnNumber":12,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"_validateCollectionSignature","sourceId":22,"lineNumber":1005,"columnNumber":47,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"maybeSync","sourceId":22,"lineNumber":722,"columnNumber":26,"sourceLine":"","asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:722:26\n","nativeSavedFrame":{}},"formattedStack":"_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:722:26\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:722:26\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:722:26\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:133:11\nfetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:722:26\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:133:11|fetch/<@resource://services-settings/Utils.sys.mjs:266:15|fetch@resource://services-settings/Utils.sys.mjs:217:12|_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1005:47|maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:722:26|
+  - prototype Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/ml-inference-options getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1725246486566	geckodriver	INFO	Listening on 127.0.0.1:63841
+1725246489649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "6384 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileo7Qwsy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725246490059	Marionette	INFO	Marionette enabled
+1725246490217	Marionette	INFO	Listening on port 63851
+WebDriver BiDi listening on ws://127.0.0.1:63842
+Read port: 63851
+1725246490355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/eMxTxvUdi8Spr_Bg1Xew8PuPzYwQ9AaFJ7qain9QBEw.js line 2 > eval line 3873 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1725246520709	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindoExiting due to channel error.
+avicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+Exiting due to channel error.
+indowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+Exiting due to channel error.
+in/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/search-config-icons sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1725247148919	geckodriver	INFO	Listening on 127.0.0.1:58993
+1725247151946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5899 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileFpVauy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725247152688	Marionette	INFO	Marionette enabled
+1725247152832	Marionette	INFO	Listening on port 59005
+WebDriver BiDi listening on ws://127.0.0.1:58994
+Read port: 59005
+1725247153045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1725247182938	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: ({})
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js, line 1: TypeError: t is undefined
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/" ({})
+1725247275116	Marionette	INFO	Stopped listening on port 59005
+Dynamically enable window occlusion 1
+1725247647461	geckodriver	INFO	Listening on 127.0.0.1:59566
+1725247650549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5956 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilekFAQUV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725247651384	Marionette	INFO	Marionette enabled
+1725247651519	Marionette	INFO	Listening on port 59578
+WebDriver BiDi listening on ws://127.0.0.1:59567
+Read port: 59578
+1725247651712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+1725247672258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1725247681465	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1725247695250	Marionette	INFO	Stopped listening on port 59578
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/pioneer-study-addons getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1725248171422	geckodriver	INFO	Listening on 127.0.0.1:51333
+1725248174534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5133 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilen0OE69"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725248175340	Marionette	INFO	Marionette enabled
+1725248175480	Marionette	INFO	Listening on port 51344
+WebDriver BiDi listening on ws://127.0.0.1:51334
+Read port: 51344
+1725248175748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1725248180088	Marionette	INFO	Stopped listening on port 51344
+Dynamically enable window occlusion 1
+1725322082044	geckodriver	INFO	Listening on 127.0.0.1:55245
+1725322085137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "5524 ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileOUem0q"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725322085637	Marionette	INFO	Marionette enabled
+1725322085760	Marionette	INFO	Listening on port 55259
+WebDriver BiDi listening on ws://127.0.0.1:55246
+Read port: 55259
+1725322085909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn-magiclinks.trackonomics.net/client/static/v2/fandom_32094_metacritic.js, line 2: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/06Cm92L731vULzc4g37bQoBORB_CTV5Wbg-SqwJ7LDU.js line 2 > eval line 981 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1725322115660	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: TypeError: NetworkError when att1725322123718	mozrunner::runJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "https://www.metacritic.com/browse/game/?releaseYearMin=1958&releaseYearMax=2024&page=2" ({})
+Exiting due to channel error.
+1725360087381	geckodriver	INFO	Listening on 127.0.0.1:52974
